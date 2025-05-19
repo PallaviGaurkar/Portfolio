@@ -1,2 +1,2 @@
 # Portfolio
-Designed my portfolio page using HTML, CSS and JavaScript.
+Designed my portfolio page using HTML and CSS.
